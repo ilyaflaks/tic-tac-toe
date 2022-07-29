@@ -16,7 +16,8 @@ https://ilyaflaks.github.io/tic-tac-toe
 - more fun if you play it with a partner
 
 #### This app was created as a part of the MITxPro Professional Certificate in Coding course with specific instructions on how to build it. 
-It's also strikingly smililar to the Tic Tac Toe game in the [React Tutorial](https://reactjs.org/tutorial/tutorial.html . No idea why. 
+It's also strikingly smililar to the Tic Tac Toe game in the [React Tutorial](https://reactjs.org/tutorial/tutorial.html). No idea why.
+
 My contributions were: 
 - Fixed the bug where one could skip the next player by clicking anywhere on the board
 - Fixed the bug which allowed one to click on the same square the second time
